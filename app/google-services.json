@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "245344345351",
+    "project_id": "calendar-watcher"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245344345351:android:5c7ae702c1930afe",
+        "android_client_info": {
+          "package_name": "com.eastsidegames.calendarwatcher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245344345351-lh43jf3hiiaip09m7dk6c55963ffq43b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eastsidegames.calendarwatcher",
+            "certificate_hash": "5000f770dd62ae12481e6d04ee99602aec081c8d"
+          }
+        },
+        {
+          "client_id": "245344345351-kp457md62qhkajqpte8dphdo2dh5rie2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnTkFq9jw5KWbtcm7kZGhspcQdfIZI80s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245344345351:android:3056ea6d388fdf6e",
+        "android_client_info": {
+          "package_name": "com.eastsidegamestudio.calendarwatcher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245344345351-ejfi411ic0hj4f4ci7glam4qmdv92g82.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eastsidegamestudio.calendarwatcher",
+            "certificate_hash": "5000f770dd62ae12481e6d04ee99602aec081c8d"
+          }
+        },
+        {
+          "client_id": "245344345351-kp457md62qhkajqpte8dphdo2dh5rie2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnTkFq9jw5KWbtcm7kZGhspcQdfIZI80s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

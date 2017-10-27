@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lint>
+    <issue id="SetJavaScriptEnabled">
+        <ignore path="src/com/eastsidegamestudio/calendarwatcher/MainActivity.java" />
+    </issue>
+    <issue id="SimpleDateFormat">
+        <ignore path="src/com/eastsidegamestudio/calendarwatcher/MonitorCalendar.java" />
+    </issue>
+</lint>

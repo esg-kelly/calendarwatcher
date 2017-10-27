@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\East Side Games\AndroidStudioProjects\CalendarWatcher1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\East Side Games\AndroidStudioProjects\CalendarWatcher1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_dd7ab09fbb8fab4dfe0ec468b88352c0b444c7a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\East Side Games\.android\build-cache\0b13f1f9e9bfd1f0b9e5732dfeb9cb316ad1a55d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="C:\Users\East Side Games\AndroidStudioProjects\CalendarWatcher1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1fba204b1f99444ffbc8aa1d4fe8322c68d7d7c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\East Side Games\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.1\2e66da15851f9f5b5079228f856c2f090ba98c38\gson-2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2e66da15851f9f5b5079228f856c2f090ba98c38">
+        <dex dex="C:\Users\East Side Games\AndroidStudioProjects\CalendarWatcher1\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.1_61ac9a622eee39d55fb4cddd64477fb3ef36ce08\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\East Side Games\.android\build-cache\464de680934174332e9b2bb70110b45e6e60b860\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="C:\Users\East Side Games\AndroidStudioProjects\CalendarWatcher1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b2b5aca91c0211e91cfd7907eb44b717a52e5e49\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\East Side Games\.android\build-cache\5723eb05ae87b1c4ee8216badc9e8857c24960e2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\East Side Games\AndroidStudioProjects\CalendarWatcher1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3b20ac6e4de015f07a80669bc33a925ebfba6694\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\East Side Games\AndroidStudioProjects\CalendarWatcher1\app\libs\google-api-services-calendar-v3-rev84-1.18.0-rc.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="86656176b188faf54b0db3b6c9561471dc4f8f90">
+        <dex dex="C:\Users\East Side Games\AndroidStudioProjects\CalendarWatcher1\app\build\intermediates\transforms\dex\debug\folders\1000\2\google-api-services-calendar-v3-rev84-1.18.0-rc_50579c51bdbb60f0dc828147084aceb3ac72cd94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\East Side Games\AndroidStudioProjects\CalendarWatcher1\app\libs\jsr305-1.3.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="C:\Users\East Side Games\AndroidStudioProjects\CalendarWatcher1\app\build\intermediates\transforms\dex\debug\folders\1000\2\jsr305-1.3.9_1181a16a43d65d72f6fea78f7e2d700b737e102c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\East Side Games\.android\build-cache\f01a3f92ca0730506a5fb9a29705ad4f31a846ac\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\East Side Games\AndroidStudioProjects\CalendarWatcher1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_822436d96b2fe72f26f20d508273f183a59d6a9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\East Side Games\.android\build-cache\39273c1908413982bfeda4b324c4b98ff95e7e0a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\East Side Games\AndroidStudioProjects\CalendarWatcher1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bf86258a5621a4d0dbfea244b25381323ed891ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\East Side Games\AndroidStudioProjects\CalendarWatcher1\app\libs\jackson-core-2.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="C:\Users\East Side Games\AndroidStudioProjects\CalendarWatcher1\app\build\intermediates\transforms\dex\debug\folders\1000\2\jackson-core-2.1.3_c5ad6dff867320aeeca7f829e3f05853cf10ceb9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\East Side Games\AndroidStudioProjects\CalendarWatcher1\app\libs\jackson-core-asl-1.9.11.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e32303ef8bd18a5c9272780d49b81c95e05ddf43">
+        <dex dex="C:\Users\East Side Games\AndroidStudioProjects\CalendarWatcher1\app\build\intermediates\transforms\dex\debug\folders\1000\2\jackson-core-asl-1.9.11_53bcbb2776ed102d71b4e0277f5555dfce4a4085\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\East Side Games\AndroidStudioProjects\CalendarWatcher1\app\libs\HockeySDK-3.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5555e301018d384c571778367189402e78924888">
+        <dex dex="C:\Users\East Side Games\AndroidStudioProjects\CalendarWatcher1\app\build\intermediates\transforms\dex\debug\folders\1000\2\HockeySDK-3.0.2_4318aec1e2353093df81c0620c4135c4dbbdc862\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\East Side Games\.gradle\caches\modules-2\files-2.1\com.google.protobuf\protobuf-java\2.4.1\c589509ec6fd86d5d2fda37e07c08538235d3b9\protobuf-java-2.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0c589509ec6fd86d5d2fda37e07c08538235d3b9">
+        <dex dex="C:\Users\East Side Games\AndroidStudioProjects\CalendarWatcher1\app\build\intermediates\transforms\dex\debug\folders\1000\10\protobuf-java-2.4.1_eb150ff9863002279ccb56ef33a7aa8c22668425\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\East Side Games\AndroidStudioProjects\CalendarWatcher1\app\libs\google-api-client-jackson2-1.18.0-rc.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="aeaa5de4fbe8b752a5e1690cd0a07656610a2d52">
+        <dex dex="C:\Users\East Side Games\AndroidStudioProjects\CalendarWatcher1\app\build\intermediates\transforms\dex\debug\folders\1000\2\google-api-client-jackson2-1.18.0-rc_da920888241ebbf4d897bea1c1abe90810441492\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\East Side Games\.android\build-cache\0358cd5838846219c9d23dcb8b0d779e7ca3998c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\East Side Games\AndroidStudioProjects\CalendarWatcher1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7fb57cd17be483ab2d73cdd8c90ac57ff196b2de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\East Side Games\.android\build-cache\5cfd5a3f275462f3afe3e3de90a033dc61457df0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="C:\Users\East Side Games\AndroidStudioProjects\CalendarWatcher1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5ae09a04f9fa2b9c38faab4fa0cf0896b25cb805\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\East Side Games\AndroidStudioProjects\CalendarWatcher1\app\libs\google-api-client-android-1.18.0-rc.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4f30a5725d24b30b35dfeb0278a29233904e19c1">
+        <dex dex="C:\Users\East Side Games\AndroidStudioProjects\CalendarWatcher1\app\build\intermediates\transforms\dex\debug\folders\1000\2\google-api-client-android-1.18.0-rc_39c3be1682dd5e5e1a51e823d602c232c60e806c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\East Side Games\.android\build-cache\33730318c85742770d8b5d928d035f54a0ef67e3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\East Side Games\AndroidStudioProjects\CalendarWatcher1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0a5ff4af82590b2cdf76b7f397fcaa9968128ffc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\East Side Games\.android\build-cache\18043cbe26f6e4c951fb4cb2ed910f14f1279566\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\East Side Games\AndroidStudioProjects\CalendarWatcher1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0365def09af5732a4177052639b608362df9fff7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\East Side Games\.android\build-cache\765e9c1720023d80dfd6ab363f8befd82cdf5666\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="C:\Users\East Side Games\AndroidStudioProjects\CalendarWatcher1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6866b135907359df126d3aa746aa0e9c9611fbfe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\East Side Games\AndroidStudioProjects\CalendarWatcher1\app\libs\google-oauth-client-1.18.0-rc.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="84bb5a223e42a5ba974ad51c9712253e662aa1bb">
+        <dex dex="C:\Users\East Side Games\AndroidStudioProjects\CalendarWatcher1\app\build\intermediates\transforms\dex\debug\folders\1000\2\google-oauth-client-1.18.0-rc_25614187c9cfa3323c28bfc77139ba89ad50cd9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\East Side Games\.android\build-cache\badb705784db88b67520f978bb3ed7c476264674\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\East Side Games\AndroidStudioProjects\CalendarWatcher1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d99d84bf9449cf08906643c30325342d093017d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\East Side Games\AndroidStudioProjects\CalendarWatcher1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_749f92721abc8a389255a48e6bc4f467c7c672e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\East Side Games\AndroidStudioProjects\CalendarWatcher1\app\libs\google-http-client-1.18.0-rc.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="041f593dcc111f46f32676e9f6856430f1294ddf">
+        <dex dex="C:\Users\East Side Games\AndroidStudioProjects\CalendarWatcher1\app\build\intermediates\transforms\dex\debug\folders\1000\2\google-http-client-1.18.0-rc_49259093236b514967ff71284bd90ee25c1cdf41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\East Side Games\AndroidStudioProjects\CalendarWatcher1\app\libs\google-api-client-1.18.0-rc.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="15feacc39aa29e06a63bf9041c6e5898f06bade9">
+        <dex dex="C:\Users\East Side Games\AndroidStudioProjects\CalendarWatcher1\app\build\intermediates\transforms\dex\debug\folders\1000\2\google-api-client-1.18.0-rc_795bfc094202ce7397d00da9ce811434fd018d8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\East Side Games\.android\build-cache\24e1b33aa55a6d57532ea1eaba391c20b340dea2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="C:\Users\East Side Games\AndroidStudioProjects\CalendarWatcher1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f8859336f7c2f4340acac99db41b4498573d9f36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\East Side Games\.android\build-cache\84ee104bb46e3780df6a1402098888e6d2aa980a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\East Side Games\AndroidStudioProjects\CalendarWatcher1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1c0f6f5ec97fe52a6488379cfc3026bfec0abba1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\East Side Games\AndroidStudioProjects\CalendarWatcher1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="df9b807c859cf2515fb704a50dd23c48620b7503">
+        <dex dex="C:\Users\East Side Games\AndroidStudioProjects\CalendarWatcher1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b1c136716681aa3332eff2460cc2966634d057c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\East Side Games\.android\build-cache\53f8517d2c5cd71f6d97dc4fe38353adc9f3ee1f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\East Side Games\AndroidStudioProjects\CalendarWatcher1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8e792d7a857ecc3d0b6c33365e17322b4d2d63b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\East Side Games\AndroidStudioProjects\CalendarWatcher1\app\libs\google-api-client-gson-1.18.0-rc.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a626deb3b2dd2d6691ff96f4840c0e4e02875d27">
+        <dex dex="C:\Users\East Side Games\AndroidStudioProjects\CalendarWatcher1\app\build\intermediates\transforms\dex\debug\folders\1000\2\google-api-client-gson-1.18.0-rc_64257541b2a1c487bd08c2c835500f4ffbcdff01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\East Side Games\AndroidStudioProjects\CalendarWatcher1\app\libs\google-http-client-jackson-1.18.0-rc.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="420c2a115eace4c29d52ed48f1c4fece0f6e9a0a">
+        <dex dex="C:\Users\East Side Games\AndroidStudioProjects\CalendarWatcher1\app\build\intermediates\transforms\dex\debug\folders\1000\2\google-http-client-jackson-1.18.0-rc_311576d37100236dbc27136075318e53d49b437c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\East Side Games\AndroidStudioProjects\CalendarWatcher1\app\libs\google-http-client-android-1.18.0-rc.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4c790c63bcdd9a34f6080c968c70d8af0f2cd2f">
+        <dex dex="C:\Users\East Side Games\AndroidStudioProjects\CalendarWatcher1\app\build\intermediates\transforms\dex\debug\folders\1000\2\google-http-client-android-1.18.0-rc_dcc73f46b684c73682d84644da49a9e628fd149a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\East Side Games\AndroidStudioProjects\CalendarWatcher1\app\libs\google-api-services-plus-v1-rev126-1.18.0-rc.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="318eee201fd59d72be010e590998d463a43615af">
+        <dex dex="C:\Users\East Side Games\AndroidStudioProjects\CalendarWatcher1\app\build\intermediates\transforms\dex\debug\folders\1000\2\google-api-services-plus-v1-rev126-1.18.0-rc_444df7f05591bcec152bdd585cb762b2a2dfbe6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\East Side Games\.android\build-cache\29e96fb85b252166046d2254c8e315a041b1b8aa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\East Side Games\AndroidStudioProjects\CalendarWatcher1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4e8226eeade70f0c9d680d09fc26ab86489f7624\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,8 @@
+<resources>
+    
+    <color name="background">#222222</color>
+    <color name="background_available">#7BD148</color>
+    <color name="background_occupied">#D14836</color>
+    <color name="background_incoming">#FF9031</color>
+    
+</resources>
